@@ -1,5 +1,5 @@
 ## Проект "Блок с комментариями"
-##### [Работающий прототип](block-of-comments.netlify.app)
+##### Демо-версия (netlify): [block-of-comments](block-of-comments.netlify.app)
 Для генерации тестовых данных используется библиотека faker
 https://fakerjs.dev/
 
